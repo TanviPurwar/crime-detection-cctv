@@ -1,6 +1,7 @@
 # Crime Detection Through CCTV Surveillance
 
 Made for Bachelor's Minor Project 
+
 A deep learning-based video classification system to detect criminal activities using CCTV footage. Built using the UCF Crime dataset.
 
 ## 📌 Project Overview
